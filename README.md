@@ -1,4 +1,4 @@
-Part One: Analysis on the Iris Dataset
+Part One: PCA Analysis on the Iris Dataset
 
 Purpose: To apply PCA for dimensionality reduction on the Iris dataset and visualize the results in a two-dimensional scatter plot.
 
